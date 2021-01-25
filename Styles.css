@@ -1,0 +1,60 @@
+body {
+  margin: 10;
+  font-family: verdana sans-serif;
+  background-color: azure;
+}
+h1 {
+  /* width: 10px; */
+  margin: 0 auto 0 auto;
+  padding-top: 20px;
+}
+
+p {
+  padding-bottom: 20px;
+}
+
+.cloud {
+  position: absolute;
+}
+
+.cloud1 {
+  height: 100px;
+  margin-left: 10%;
+  margin-top: 200px;
+}
+
+.cloud2 {
+  height: 100px;
+  margin-left: 80%;
+  margin-top: 50px;
+}
+
+.top-container {
+  background-color: #dcf3fe;
+  text-align: center;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.info {
+  text-align: center;
+}
+
+.portrait {
+  height: 180px;
+  width: 180px;
+  border-radius: 50%;
+}
+.top-container {
+  background-color: azure;
+  text-align: center;
+}
+.image1 {
+  height: 100px;
+}
+.bottom-container {
+  background-color: azure;
+  text-align: center;
+}
